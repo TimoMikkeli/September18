@@ -1,2 +1,3 @@
 The beginning. Done locally in my laptop.
 Did one modification. Done locally in my laptop.
+This is done by a friend who took the clone from GitHub.
